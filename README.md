@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 9 |
+| 5 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [dfs and similar](#dfs-and-similar) (3)
 - [dsu](#dsu) (3)
 - [graphs](#graphs) (2)
@@ -29,6 +29,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
+| 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2257/B%20-%20Gigantomachy/solution.cpp) |
 
 ### dfs and similar
 
