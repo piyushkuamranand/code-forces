@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 8 |
+| 4 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [dfs and similar](#dfs-and-similar) (3)
 - [dsu](#dsu) (3)
 - [graphs](#graphs) (2)
@@ -22,6 +23,12 @@
 - [trees](#trees) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
 
 ### dfs and similar
 
