@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 11 |
+| 7 | 12 |
 
 ---
 
@@ -17,11 +17,12 @@
 - [dfs and similar](#dfs-and-similar) (3)
 - [dsu](#dsu) (3)
 - [graphs](#graphs) (2)
+- [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
 - [interactive](#interactive) (1)
 - [math](#math) (2)
 - [number theory](#number-theory) (1)
-- [sortings](#sortings) (2)
+- [sortings](#sortings) (3)
 - [trees](#trees) (1)
 
 ---
@@ -62,6 +63,12 @@
 | 160D | [Edges in MST](https://codeforces.com/contest/160/problem/D) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/160/D%20-%20Edges%20in%20MST/solution.cpp) |
 | 755C | [PolandBall and Forest](https://codeforces.com/contest/755/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/755/C%20-%20PolandBall%20and%20Forest/solution.cpp) |
 
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2232/A%20-%20Convergence/solution.cpp) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
@@ -93,6 +100,7 @@
 |---|---------|------------|----------|
 | 160D | [Edges in MST](https://codeforces.com/contest/160/problem/D) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/160/D%20-%20Edges%20in%20MST/solution.cpp) |
 | 843A | [Sorting by Subsequences](https://codeforces.com/contest/843/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/843/A%20-%20Sorting%20by%20Subsequences/solution.cpp) |
+| 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2232/A%20-%20Convergence/solution.cpp) |
 
 ### trees
 
