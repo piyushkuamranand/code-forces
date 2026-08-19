@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 16 |
+| 12 | 16 |
 
 ---
 
@@ -14,17 +14,17 @@
 
 - [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (2)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [dfs and similar](#dfs-and-similar) (4)
-- [dp](#dp) (1)
+- [dp](#dp) (2)
 - [dsu](#dsu) (4)
 - [games](#games) (1)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (5)
+- [greedy](#greedy) (6)
 - [implementation](#implementation) (1)
 - [interactive](#interactive) (1)
-- [math](#math) (5)
-- [number theory](#number-theory) (2)
+- [math](#math) (6)
+- [number theory](#number-theory) (3)
 - [sortings](#sortings) (5)
 - [strings](#strings) (1)
 - [trees](#trees) (1)
@@ -50,6 +50,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
+| 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 
 ### dfs and similar
 
@@ -65,6 +66,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
+| 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 
 ### dsu
 
@@ -97,6 +99,7 @@
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
+| 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 
 ### implementation
 
@@ -118,6 +121,7 @@
 | 2232B | [Cake Leveling](https://codeforces.com/contest/2232/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2232/B%20-%20Cake%20Leveling/solution.cpp) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
+| 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
 
 ### number theory
@@ -125,6 +129,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
+| 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
 
 ### sortings
