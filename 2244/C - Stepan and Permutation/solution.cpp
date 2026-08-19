@@ -53,33 +53,31 @@ void solve() {
     cin >> n >> x >> y;
  
     vll p(n), pos(n);
- 
-    rep(i,0,n) {
+    rep(i,0,n){
         cin >> p[i];
         p[i]--;
-        pos[p[i]] = i;
+        pos[p[i]]=i;
     }
  
     DSU dsu(n);
- 
-    rep(i,0,n) {
-        if(i + x < n) {
-            dsu.unite(i, i + x);
+    rep(i,0,n){
+        if(i+x<n){
+            dsu.unite(i,i+x);
         }
- 
-        if(i + y < n) {
-            dsu.unite(i, i + y);
+        if(i+y<n){
+            dsu.unite(i,i+y);
         }
     }
  
-    rep(i,0,n) {
-        if(dsu.find(i) != dsu.find(pos[i])) {
+    rep(i,0,n){
+        if(dsu.find(p[i]) == dsu.find(pos[p[i]])){continue;}
+        else{
             NO;
             rt;
         }
     }
- 
     YES;
+    rt;
 }
  
 int main() {
