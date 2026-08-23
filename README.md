@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 16 |
+| 14 | 16 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [games](#games) (1)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 - [interactive](#interactive) (1)
 - [math](#math) (7)
 - [number theory](#number-theory) (3)
@@ -107,6 +107,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 843A | [Sorting by Subsequences](https://codeforces.com/contest/843/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/843/A%20-%20Sorting%20by%20Subsequences/solution.cpp) |
 
 ### interactive
