@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 17 |
+| 19 | 17 |
 
 ---
 
@@ -14,8 +14,8 @@
 
 - [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (2)
-- [constructive algorithms](#constructive-algorithms) (4)
-- [data structures](#data-structures) (1)
+- [constructive algorithms](#constructive-algorithms) (5)
+- [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (4)
 - [dp](#dp) (3)
 - [dsu](#dsu) (4)
@@ -26,7 +26,7 @@
 - [interactive](#interactive) (1)
 - [math](#math) (9)
 - [number theory](#number-theory) (4)
-- [sortings](#sortings) (5)
+- [sortings](#sortings) (6)
 - [strings](#strings) (2)
 - [trees](#trees) (1)
 
@@ -50,6 +50,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1353D | [Constructing the Array](https://codeforces.com/contest/1353/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1353/D%20-%20Constructing%20the%20Array/solution.cpp) |
 | 1733D1 | [Zero-One (Easy Version)](https://codeforces.com/contest/1733/problem/D1) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1733/D1%20-%20Zero-One%20(Easy%20Version)/solution.cpp) |
 | 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
@@ -59,6 +60,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1353D | [Constructing the Array](https://codeforces.com/contest/1353/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1353/D%20-%20Constructing%20the%20Array/solution.cpp) |
 | 2210B | [Simply Sitting on Chairs](https://codeforces.com/contest/2210/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2210/B%20-%20Simply%20Sitting%20on%20Chairs/solution.cpp) |
 
 ### dfs and similar
@@ -157,6 +159,7 @@
 |---|---------|------------|----------|
 | 160D | [Edges in MST](https://codeforces.com/contest/160/problem/D) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/160/D%20-%20Edges%20in%20MST/solution.cpp) |
 | 843A | [Sorting by Subsequences](https://codeforces.com/contest/843/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/843/A%20-%20Sorting%20by%20Subsequences/solution.cpp) |
+| 1353D | [Constructing the Array](https://codeforces.com/contest/1353/problem/D) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1353/D%20-%20Constructing%20the%20Array/solution.cpp) |
 | 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2232/A%20-%20Convergence/solution.cpp) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
