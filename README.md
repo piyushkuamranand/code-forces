@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 17 |
+| 18 | 17 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [greedy](#greedy) (10)
 - [implementation](#implementation) (2)
 - [interactive](#interactive) (1)
-- [math](#math) (8)
+- [math](#math) (9)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (5)
 - [strings](#strings) (2)
@@ -133,6 +133,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 843A | [Sorting by Subsequences](https://codeforces.com/contest/843/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/843/A%20-%20Sorting%20by%20Subsequences/solution.cpp) |
+| 1353C | [Board Moves](https://codeforces.com/contest/1353/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1353/C%20-%20Board%20Moves/solution.cpp) |
 | 1733D1 | [Zero-One (Easy Version)](https://codeforces.com/contest/1733/problem/D1) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1733/D1%20-%20Zero-One%20(Easy%20Version)/solution.cpp) |
 | 2232B | [Cake Leveling](https://codeforces.com/contest/2232/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2232/B%20-%20Cake%20Leveling/solution.cpp) |
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.cpp) |
