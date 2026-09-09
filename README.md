@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 19 |
+| 27 | 19 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (4)
 - [brute force](#brute-force) (1)
-- [constructive algorithms](#constructive-algorithms) (6)
+- [constructive algorithms](#constructive-algorithms) (7)
 - [data structures](#data-structures) (3)
 - [dfs and similar](#dfs-and-similar) (4)
 - [dp](#dp) (3)
@@ -26,7 +26,7 @@
 - [implementation](#implementation) (2)
 - [interactive](#interactive) (1)
 - [math](#math) (12)
-- [number theory](#number-theory) (4)
+- [number theory](#number-theory) (5)
 - [sortings](#sortings) (6)
 - [strings](#strings) (3)
 - [trees](#trees) (1)
@@ -67,6 +67,7 @@
 | 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
 | 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
+| 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.cpp) |
 
 ### data structures
 
@@ -172,6 +173,7 @@
 | 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
 | 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
+| 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
 
 ### sortings
