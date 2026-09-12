@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 32 | 20 |
+| 33 | 20 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [greedy](#greedy) (18)
 - [implementation](#implementation) (3)
 - [interactive](#interactive) (1)
-- [math](#math) (16)
+- [math](#math) (17)
 - [number theory](#number-theory) (7)
 - [sortings](#sortings) (6)
 - [strings](#strings) (4)
@@ -181,6 +181,7 @@
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
 | 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
+| 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 
 ### number theory
 
