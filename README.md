@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 36 | 20 |
+| 38 | 21 |
 
 ---
 
@@ -16,8 +16,9 @@
 - [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (1)
-- [constructive algorithms](#constructive-algorithms) (7)
-- [data structures](#data-structures) (4)
+- [combinatorics](#combinatorics) (1)
+- [constructive algorithms](#constructive-algorithms) (8)
+- [data structures](#data-structures) (5)
 - [dfs and similar](#dfs-and-similar) (4)
 - [dp](#dp) (4)
 - [dsu](#dsu) (4)
@@ -26,9 +27,9 @@
 - [greedy](#greedy) (19)
 - [implementation](#implementation) (3)
 - [interactive](#interactive) (1)
-- [math](#math) (17)
+- [math](#math) (19)
 - [number theory](#number-theory) (7)
-- [sortings](#sortings) (6)
+- [sortings](#sortings) (8)
 - [strings](#strings) (4)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (1)
@@ -67,6 +68,12 @@
 |---|---------|------------|----------|
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.cpp) |
 
+### combinatorics
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2264C | [Madamant's Skating Dynasty](https://codeforces.com/contest/2264/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2264/C%20-%20Madamant's%20Skating%20Dynasty/solution.cpp) |
+
 ### constructive algorithms
 
 | # | Problem | Difficulty | Solution |
@@ -78,6 +85,7 @@
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
 | 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 | 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.cpp) |
+| 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
 
 ### data structures
 
@@ -87,6 +95,7 @@
 | 1490E | [Accidental Victory](https://codeforces.com/contest/1490/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1490/E%20-%20Accidental%20Victory/solution.cpp) |
 | 2210B | [Simply Sitting on Chairs](https://codeforces.com/contest/2210/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2210/B%20-%20Simply%20Sitting%20on%20Chairs/solution.cpp) |
 | 2226C | [Mental Monumental (Easy Version)](https://codeforces.com/contest/2226/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2226/C%20-%20Mental%20Monumental%20(Easy%20Version)/solution.cpp) |
+| 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
 
 ### dfs and similar
 
@@ -187,6 +196,8 @@
 | 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.cpp) |
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
+| 2264C | [Madamant's Skating Dynasty](https://codeforces.com/contest/2264/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2264/C%20-%20Madamant's%20Skating%20Dynasty/solution.cpp) |
+| 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
 
 ### number theory
 
@@ -210,6 +221,8 @@
 | 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2232/A%20-%20Convergence/solution.cpp) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
+| 2264C | [Madamant's Skating Dynasty](https://codeforces.com/contest/2264/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2264/C%20-%20Madamant's%20Skating%20Dynasty/solution.cpp) |
+| 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
 
 ### strings
 
