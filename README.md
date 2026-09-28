@@ -6,26 +6,26 @@
 
 | Total Problems | Topics |
 |---|---|
-| 39 | 22 |
+| 42 | 22 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (5)
-- [binary search](#binary-search) (5)
+- [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (1)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (8)
 - [data structures](#data-structures) (5)
 - [dfs and similar](#dfs-and-similar) (4)
-- [dp](#dp) (5)
+- [dp](#dp) (8)
 - [dsu](#dsu) (4)
 - [games](#games) (1)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (20)
-- [implementation](#implementation) (3)
+- [greedy](#greedy) (21)
+- [implementation](#implementation) (5)
 - [interactive](#interactive) (1)
 - [math](#math) (19)
 - [number theory](#number-theory) (7)
@@ -51,6 +51,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1082E | [Increasing Frequency](https://codeforces.com/contest/1082/problem/E) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1082/E%20-%20Increasing%20Frequency/solution.cpp) |
 | 1490E | [Accidental Victory](https://codeforces.com/contest/1490/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1490/E%20-%20Accidental%20Victory/solution.cpp) |
 | 2226C | [Mental Monumental (Easy Version)](https://codeforces.com/contest/2226/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2226/C%20-%20Mental%20Monumental%20(Easy%20Version)/solution.cpp) |
 | 2232B | [Cake Leveling](https://codeforces.com/contest/2232/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2232/B%20-%20Cake%20Leveling/solution.cpp) |
@@ -111,6 +112,9 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 467C | [George and Job](https://codeforces.com/contest/467/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/467/C%20-%20George%20and%20Job/solution.cpp) |
+| 1082E | [Increasing Frequency](https://codeforces.com/contest/1082/problem/E) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1082/E%20-%20Increasing%20Frequency/solution.cpp) |
+| 1324E | [Sleeping Schedule](https://codeforces.com/contest/1324/problem/E) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1324/E%20-%20Sleeping%20Schedule/solution.cpp) |
 | 1418C | [Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1418/C%20-%20Mortal%20Kombat%20Tower/solution.cpp) |
 | 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.cpp) |
 | 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.cpp) |
@@ -144,6 +148,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1082E | [Increasing Frequency](https://codeforces.com/contest/1082/problem/E) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1082/E%20-%20Increasing%20Frequency/solution.cpp) |
 | 1256C | [Platforms Jumping](https://codeforces.com/contest/1256/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1256/C%20-%20Platforms%20Jumping/solution.cpp) |
 | 1418C | [Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1418/C%20-%20Mortal%20Kombat%20Tower/solution.cpp) |
 | 1490E | [Accidental Victory](https://codeforces.com/contest/1490/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1490/E%20-%20Accidental%20Victory/solution.cpp) |
@@ -170,7 +175,9 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
+| 467C | [George and Job](https://codeforces.com/contest/467/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/467/C%20-%20George%20and%20Job/solution.cpp) |
 | 843A | [Sorting by Subsequences](https://codeforces.com/contest/843/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/843/A%20-%20Sorting%20by%20Subsequences/solution.cpp) |
+| 1324E | [Sleeping Schedule](https://codeforces.com/contest/1324/problem/E) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1324/E%20-%20Sleeping%20Schedule/solution.cpp) |
 | 2230B | [Digit String](https://codeforces.com/contest/2230/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2230/B%20-%20Digit%20String/solution.cpp) |
 
 ### interactive
