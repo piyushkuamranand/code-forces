@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 42 | 22 |
+| 43 | 22 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [constructive algorithms](#constructive-algorithms) (8)
 - [data structures](#data-structures) (5)
 - [dfs and similar](#dfs-and-similar) (4)
-- [dp](#dp) (8)
+- [dp](#dp) (9)
 - [dsu](#dsu) (4)
 - [games](#games) (1)
 - [graphs](#graphs) (3)
@@ -112,6 +112,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 455A | [Boredom](https://codeforces.com/contest/455/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/455/A%20-%20Boredom/solution.cpp) |
 | 467C | [George and Job](https://codeforces.com/contest/467/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/467/C%20-%20George%20and%20Job/solution.cpp) |
 | 1082E | [Increasing Frequency](https://codeforces.com/contest/1082/problem/E) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1082/E%20-%20Increasing%20Frequency/solution.cpp) |
 | 1324E | [Sleeping Schedule](https://codeforces.com/contest/1324/problem/E) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1324/E%20-%20Sleeping%20Schedule/solution.cpp) |
