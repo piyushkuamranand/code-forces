@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 47 | 22 |
+| 48 | 22 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [constructive algorithms](#constructive-algorithms) (8)
 - [data structures](#data-structures) (5)
 - [dfs and similar](#dfs-and-similar) (4)
-- [dp](#dp) (12)
+- [dp](#dp) (13)
 - [dsu](#dsu) (4)
 - [games](#games) (1)
 - [graphs](#graphs) (3)
@@ -118,6 +118,7 @@
 | 467C | [George and Job](https://codeforces.com/contest/467/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/467/C%20-%20George%20and%20Job/solution.cpp) |
 | 545C | [Woodcutters](https://codeforces.com/contest/545/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/545/C%20-%20Woodcutters/solution.cpp) |
 | 607A | [Chain Reaction](https://codeforces.com/contest/607/problem/A) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/607/A%20-%20Chain%20Reaction/solution.cpp) |
+| 698A | [Vacations](https://codeforces.com/contest/698/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/698/A%20-%20Vacations/solution.cpp) |
 | 1082E | [Increasing Frequency](https://codeforces.com/contest/1082/problem/E) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1082/E%20-%20Increasing%20Frequency/solution.cpp) |
 | 1324E | [Sleeping Schedule](https://codeforces.com/contest/1324/problem/E) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1324/E%20-%20Sleeping%20Schedule/solution.cpp) |
 | 1418C | [Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1418/C%20-%20Mortal%20Kombat%20Tower/solution.cpp) |
