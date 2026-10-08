@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 48 | 22 |
+| 49 | 22 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (8)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (2)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (8)
 - [data structures](#data-structures) (5)
@@ -25,7 +25,7 @@
 - [games](#games) (1)
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (24)
-- [implementation](#implementation) (5)
+- [implementation](#implementation) (6)
 - [interactive](#interactive) (1)
 - [math](#math) (20)
 - [number theory](#number-theory) (7)
@@ -71,6 +71,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.cpp) |
+| 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
 
 ### combinatorics
 
@@ -189,6 +190,7 @@
 | 843A | [Sorting by Subsequences](https://codeforces.com/contest/843/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/843/A%20-%20Sorting%20by%20Subsequences/solution.cpp) |
 | 1324E | [Sleeping Schedule](https://codeforces.com/contest/1324/problem/E) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1324/E%20-%20Sleeping%20Schedule/solution.cpp) |
 | 2230B | [Digit String](https://codeforces.com/contest/2230/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2230/B%20-%20Digit%20String/solution.cpp) |
+| 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
 
 ### interactive
 
