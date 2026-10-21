@@ -6,14 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 3 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [bitmasks](#bitmasks) (1)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [brute force](#brute-force) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
+- [dp](#dp) (1)
+- [greedy](#greedy) (1)
 
 ---
 
@@ -23,11 +26,30 @@
 |---|---------|------------|----------|
 | 1790E | [Vlad and a Pair of Numbers](https://codeforces.com/contest/1790/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1790/E%20-%20Vlad%20and%20a%20Pair%20of%20Numbers/solution.cpp) |
 
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.cpp) |
+
 ### constructive algorithms
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1790E | [Vlad and a Pair of Numbers](https://codeforces.com/contest/1790/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1790/E%20-%20Vlad%20and%20a%20Pair%20of%20Numbers/solution.cpp) |
+| 2268A | [K Is Important](https://codeforces.com/contest/2268/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2268/A%20-%20K%20Is%20Important/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2268A | [K Is Important](https://codeforces.com/contest/2268/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2268/A%20-%20K%20Is%20Important/solution.cpp) |
 
 ---
 
