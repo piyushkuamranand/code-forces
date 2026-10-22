@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 5 |
+| 4 | 7 |
 
 ---
 
@@ -17,6 +17,8 @@
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
 - [greedy](#greedy) (1)
+- [math](#math) (1)
+- [number theory](#number-theory) (1)
 
 ---
 
@@ -50,6 +52,18 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2268A | [K Is Important](https://codeforces.com/contest/2268/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2268/A%20-%20K%20Is%20Important/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
 
 ---
 
