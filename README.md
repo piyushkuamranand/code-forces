@@ -6,21 +6,28 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 7 |
+| 6 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
-- [greedy](#greedy) (1)
-- [math](#math) (1)
+- [greedy](#greedy) (2)
+- [math](#math) (2)
 - [number theory](#number-theory) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2277A | [Subset Selecting](https://codeforces.com/contest/2277/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2277/A%20-%20Subset%20Selecting/solution.cpp) |
 
 ### bitmasks
 
@@ -52,11 +59,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2268A | [K Is Important](https://codeforces.com/contest/2268/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2268/A%20-%20K%20Is%20Important/solution.cpp) |
+| 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
 | 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
 
 ### number theory
