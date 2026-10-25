@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 8 |
+| 9 | 9 |
 
 ---
 
@@ -16,8 +16,9 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (2)
-- [dp](#dp) (1)
-- [greedy](#greedy) (2)
+- [dp](#dp) (2)
+- [greedy](#greedy) (3)
+- [implementation](#implementation) (1)
 - [math](#math) (2)
 - [number theory](#number-theory) (1)
 
@@ -55,13 +56,21 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.cpp) |
+| 797B | [Odd sum](https://codeforces.com/contest/797/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/797/B%20-%20Odd%20sum/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 797B | [Odd sum](https://codeforces.com/contest/797/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/797/B%20-%20Odd%20sum/solution.cpp) |
 | 2268A | [K Is Important](https://codeforces.com/contest/2268/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2268/A%20-%20K%20Is%20Important/solution.cpp) |
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 797B | [Odd sum](https://codeforces.com/contest/797/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/797/B%20-%20Odd%20sum/solution.cpp) |
 
 ### math
 
