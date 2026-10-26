@@ -6,17 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 9 |
+| 12 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (5)
+- [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (3)
-- [dp](#dp) (2)
+- [dp](#dp) (3)
 - [greedy](#greedy) (4)
 - [implementation](#implementation) (1)
 - [math](#math) (2)
@@ -33,6 +34,12 @@
 | 2277A | [Subset Selecting](https://codeforces.com/contest/2277/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2277/A%20-%20Subset%20Selecting/solution.cpp) |
 | 2277B | [Sequence Decreasing](https://codeforces.com/contest/2277/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2277/B%20-%20Sequence%20Decreasing/solution.cpp) |
 | 2277D1 | [Number Operating (Easy Version)](https://codeforces.com/contest/2277/problem/D1) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2277/D1%20-%20Number%20Operating%20(Easy%20Version)/solution.cpp) |
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2272C | [Yet Another Black Cell Problem](https://codeforces.com/contest/2272/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2272/C%20-%20Yet%20Another%20Black%20Cell%20Problem/solution.cpp) |
 
 ### bitmasks
 
@@ -60,6 +67,7 @@
 |---|---------|------------|----------|
 | 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.cpp) |
 | 797B | [Odd sum](https://codeforces.com/contest/797/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/797/B%20-%20Odd%20sum/solution.cpp) |
+| 2272C | [Yet Another Black Cell Problem](https://codeforces.com/contest/2272/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2272/C%20-%20Yet%20Another%20Black%20Cell%20Problem/solution.cpp) |
 
 ### greedy
 
