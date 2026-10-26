@@ -173,50 +173,11 @@ void solve()
     string a, b;
     cin >> n >> a >> b;
  
-    vector<char> c(n);
-    int A = 0, B = 0;
- 
-    rep(i, 0, n)
-    {
-        bool x = (a[i] == 'f');
-        bool y = (b[i] == 'f');
- 
-        if (x && y)
-            c[i] = 'F';
-        else if (x)
-            c[i] = 'A', A++;
-        else
-            c[i] = 'B', B++;
-    }
- 
-    char p = (A >= B ? 'A' : 'B');
-    int d = abs(A - B);
- 
-    auto ok = [&](int i, int j)
-    {
-        bool x = (c[i] == p || c[i] == 'F');
-        bool y = (c[j] == p || c[j] == 'F');
- 
-        if (!x || !y)
-            return false;
-        if (c[i] == 'F' && c[j] == 'F')
-            return false;
- 
-        return true;
-    };
- 
-    int ans = 0;
- 
-    for (int i = 0; i + 1 < n;)
-    {
-        if (ok(i, i + 1))
-            ans++, i += 2;
-        else
-            i++;
-    }
- 
-    cout << d - 2 * min(d / 2, ans) << '
-';
+    n=0;
+    for(char x: a)if(x=='f')n++;
+    for(char x: b)if(x=='f')n++;
+    cout << n%2;
+    cn;
 }
  
 int main()
