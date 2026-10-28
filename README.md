@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 10 |
+| 16 | 11 |
 
 ---
 
@@ -17,11 +17,12 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (3)
-- [dp](#dp) (5)
+- [dp](#dp) (6)
 - [greedy](#greedy) (4)
 - [implementation](#implementation) (1)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
+- [strings](#strings) (1)
 
 ---
 
@@ -67,6 +68,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.cpp) |
+| 706C | [Hard problem](https://codeforces.com/contest/706/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/706/C%20-%20Hard%20problem/solution.cpp) |
 | 797B | [Odd sum](https://codeforces.com/contest/797/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/797/B%20-%20Odd%20sum/solution.cpp) |
 | 1272D | [Remove One Element](https://codeforces.com/contest/1272/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1272/D%20-%20Remove%20One%20Element/solution.cpp) |
 | 1881E | [Block Sequence](https://codeforces.com/contest/1881/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/1881/E%20-%20Block%20Sequence/solution.cpp) |
@@ -100,6 +102,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 706C | [Hard problem](https://codeforces.com/contest/706/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/piyushkuamranand/code-forces/blob/HEAD/706/C%20-%20Hard%20problem/solution.cpp) |
 
 ---
 
