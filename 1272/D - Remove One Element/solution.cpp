@@ -140,38 +140,43 @@ void solve(){
     vll a(n);
     rep(i,0,n){cin>>a[i];}
  
-    vll left(n), right(n);
+    DSU dsu(n); 
  
-    ll cnt=1;
-    left[0]=1;
+    bool check=true;
     rep(i,1,n){
-        if(a[i]>a[i-1]){cnt++;}
-        else{cnt=1;}
-        left[i]=cnt;
+        if(a[i]<=a[i-1]){check=false;}
     }
  
-    if(left.back()==n){cout << n;cn;rt;}
- 
- 
- 
-    cnt =1;
-    right[n-1]=1;
-    rrep(i,n-2,0){
-        if(a[i+1]>a[i]){cnt++;}
-        else cnt=1;
-        right[i]=cnt;
+    if(check){
+        cout << n;
+        cn;
+        rt;
     }
  
-    ll idx = *max_element(left.begin(), left.end());
+    rep(i,0,n-1){
+        if(a[i]<a[i+1])dsu.unite(i,i+1);
+    }
+ 
+ 
+    ll ans = 1;
+    rep(i,0,n){
+        ans = max(ans, 1LL* dsu.size(i));
+    }
     rep(i,1,n-1){
+        if(a[i-1] < a[i+1]){
  
-        if(a[i-1]<a[i+1]){
-        idx=max(left[i-1]+right[i+1],idx);
-    }}
+            if(!dsu.same(i,i-1) || !dsu.same(i,i+1)){
+            ll len1 = dsu.same(i-1,i) ? dsu.size(i-1)-1 : dsu.size(i-1);
+            ll len2 = dsu.same(i,i+1) ? dsu.size(i+1)-1 : dsu.size(i+1);
  
-    idx=max({idx,right[1],left[n-2]});
+            ans = max(ans, len1 + len2);
+            }
+        }
+    }
  
-    cout << idx;
+ 
+ 
+    cout << ans;
     cn;
     rt;
  
